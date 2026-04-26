@@ -21,11 +21,6 @@
         <jackson.version>2.21.2</jackson.version>
         <junit.version>5.13.4</junit.version>
         <lombok.version>1.18.44</lombok.version>
-        <kryo.version>5.6.2</kryo.version>
-        <hessian.version>4.0.66</hessian.version>
-        <protobuf.version>4.33.0</protobuf.version>
-        <assertj.version>3.27.6</assertj.version>
-        <protoc.version>4.33.0</protoc.version>
     </properties>
 
     <licenses>
